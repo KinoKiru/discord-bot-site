@@ -1,0 +1,24 @@
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+}
+
+.image{
+    background-image: url("../images/cZNxT3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body{
+    overflow-x: hidden;
+}
+
+.thumbnailImagine{
+    height: 100px;
+    width: 100px;
+}
+
+.embedMaxHeight{
+    height: 400px;
+}
