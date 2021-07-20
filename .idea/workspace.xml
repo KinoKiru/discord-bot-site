@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0080c080-c8f7-4bd6-bfb2-73922dfac602" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Dev.bot/src/database/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/src/database/database.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev.bot/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/src/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/websiteDevBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/websiteDevBot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/socket.io.js" beforeDir="false" afterPath="$PROJECT_DIR$/socket.io.js" afterDir="false" />
     </list>
@@ -24,6 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1va5V1kztoVDHbXvRhVeNvszxfg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +45,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTHome" />
+    <property name="ts.external.directory.path" value="C:\Users\thoma\Downloads\Dev.bot\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,7 +58,7 @@
       <updated>1626787382585</updated>
       <workItem from="1626787385194" duration="841000" />
       <workItem from="1626802059202" duration="497000" />
-      <workItem from="1626802659926" duration="1079000" />
+      <workItem from="1626802659926" duration="1863000" />
     </task>
     <servers />
   </component>
