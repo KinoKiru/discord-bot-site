@@ -6,6 +6,10 @@ socket.on("initStartup" , (rows)=>{
  fillTable(rows, text)
 })
 
+socket.on("connection", ()=>{
+   console.log("neuksesk");
+})
+
 socket.on("update", (rows)=>{
      table.innerHTML = "";
      fillTable(rows, text)
