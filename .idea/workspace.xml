@@ -6,10 +6,8 @@
       <change afterPath="$PROJECT_DIR$/../Dev.bot/src/util/mangaScraper.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dev.bot/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dev.bot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dev.bot/src/database/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/src/database/database.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev.bot/src/database/database.sqlite" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dev.bot/src/util/databaseHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/src/util/databaseHandler.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sockety.js" beforeDir="false" afterPath="$PROJECT_DIR$/sockety.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Dev.bot" />
   </component>
   <component name="ProjectId" id="1va5V1kztoVDHbXvRhVeNvszxfg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,7 +61,7 @@
       <workItem from="1626802059202" duration="497000" />
       <workItem from="1626802659926" duration="1952000" />
       <workItem from="1626898980271" duration="9924000" />
-      <workItem from="1626986520154" duration="362000" />
+      <workItem from="1626986520154" duration="710000" />
     </task>
     <servers />
   </component>

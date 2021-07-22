@@ -18,7 +18,9 @@ socket.on("update", (rows)=>{
 function fillTable(rows){
    text.classList.add("d-none");
    for (const row of rows) {
+
       let tr = document.createElement("tr");
+
       let td = document.createElement("td");
       let td1 = document.createElement("td");
       let td2 = document.createElement("td");
