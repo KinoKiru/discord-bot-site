@@ -12,6 +12,9 @@ document.head.appendChild(script);
 
 script.addEventListener('load', ()=> {
     const script = document.createElement('script');
+    const script1 = document.createElement('script');
     script.src = "sockety.js";
+    script1.src = "size.js";
     document.head.appendChild(script);
+    document.head.appendChild(script1);
 });

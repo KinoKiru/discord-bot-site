@@ -31,6 +31,8 @@ function fillTable(rows){
       td2.innerText = row.usage;
       td3.innerText = row.use;
 
+      td2.classList.add("usages");
+
       tr.appendChild(td);
       tr.appendChild(td1);
       tr.appendChild(td2);
