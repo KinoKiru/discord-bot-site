@@ -32,6 +32,7 @@ function fillTable(rows){
       tr.appendChild(td);
       tr.appendChild(td1);
       tr.appendChild(td2);
+      tr.appendChild(td3);
 
       table.appendChild(tr);
    }
