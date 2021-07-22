@@ -22,10 +22,12 @@ function fillTable(rows){
       let td = document.createElement("td");
       let td1 = document.createElement("td");
       let td2 = document.createElement("td");
+      let td3 = document.createElement("td");
 
       td.innerText = row.command;
       td1.innerText = row.description;
-      td2.innerText = row.use;
+      td2.innerText = row.usage;
+      td3.innerText = row.use;
 
       tr.appendChild(td);
       tr.appendChild(td1);
