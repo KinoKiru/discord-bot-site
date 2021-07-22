@@ -8,7 +8,9 @@
       <change beforePath="$PROJECT_DIR$/../Dev.bot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dev.bot/src/database/database.sqlite" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Dev.bot/src/util/databaseHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/src/util/databaseHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/size.js" beforeDir="false" afterPath="$PROJECT_DIR$/size.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/socket.io.js" beforeDir="false" afterPath="$PROJECT_DIR$/socket.io.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
       <workItem from="1626802059202" duration="497000" />
       <workItem from="1626802659926" duration="1952000" />
       <workItem from="1626898980271" duration="9924000" />
-      <workItem from="1626986520154" duration="1970000" />
+      <workItem from="1626986520154" duration="2195000" />
     </task>
     <servers />
   </component>
