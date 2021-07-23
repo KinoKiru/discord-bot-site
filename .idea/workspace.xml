@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0080c080-c8f7-4bd6-bfb2-73922dfac602" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Dev.bot/src/command/text/manga.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev.bot/src/util/mangaScraper.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dev.bot/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dev.bot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dev.bot/src/database/database.sqlite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dev.bot/src/util/databaseHandler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/src/util/databaseHandler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev.bot/src/database/database.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/src/database/database.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev.bot/src/util/mangaScraper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev.bot/src/util/mangaScraper.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/size.js" beforeDir="false" afterPath="$PROJECT_DIR$/size.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +59,9 @@
       <workItem from="1626802059202" duration="497000" />
       <workItem from="1626802659926" duration="1952000" />
       <workItem from="1626898980271" duration="9924000" />
-      <workItem from="1626986520154" duration="2763000" />
+      <workItem from="1626986520154" duration="5455000" />
+      <workItem from="1626992191408" duration="2021000" />
+      <workItem from="1627065057018" duration="611000" />
     </task>
     <servers />
   </component>

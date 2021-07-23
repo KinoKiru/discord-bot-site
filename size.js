@@ -1,6 +1,8 @@
-
-
 window.addEventListener('resize', function(event) {
+       startTest();
+}, true);
+
+function startTest(){
     let thUsages = document.querySelector("table>thead.thead-dark>tr>th.usages")
     let tdUsages = document.querySelectorAll("table>tbody>tr>td.usages");
     if (window.innerWidth < 506){
@@ -15,6 +17,4 @@ window.addEventListener('resize', function(event) {
             tdUsage.classList.remove("d-none");
         }
     }
-}, true);
-
-
+}
