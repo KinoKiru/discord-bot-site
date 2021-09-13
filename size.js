@@ -1,6 +1,6 @@
 window.addEventListener('resize', function(event) {
        startTest();
-}, true);
+});
 
 function startTest(){
     let thUsages = document.querySelector("table>thead.thead-dark>tr>th.usages")
